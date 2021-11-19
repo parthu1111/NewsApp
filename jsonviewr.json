@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "OPINION | Not what the doctor ordered: A retiring nurse looks at what's wrong with primary care | CBC News",
+            "description": "New Brunswick may have made great gains in many areas of the health-care system, but not in primary care, writes registered nurse Diane Murray. In a column for CBC Opinion, she says the province may have the primary-care system backwards.",
+            "url": "http://www.cbc.ca/news/canada/new-brunswick/opinion-murray-primary-care-reform-1.6250413",
+            "urlToImage": "https://i.cbc.ca/1.6250519.1637072897!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/diane-murray.jpg",
+            "publishedAt": "2021-11-17T13:52:27.2394523Z",
+            "content": "This column is an opinion by Diane Murray, a registered nurse in New Brunswick. For more information about CBC's Opinion section, please see the FAQ.\r\nIn a few months, I will retire as a nurse. Over … [+6917 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Richard Willingham",
+            "title": "Restrictions may lift earlier as Victoria kicks vaccination goals, but health workers urge more protection",
+            "description": "Mask use will be scaled down in Victoria, and venues will be able to operate at greater capacity as part of a further easing of restrictions that could be in place for the weekend.",
+            "url": "http://www.abc.net.au/news/2021-11-18/victoria-covid-restrictions-easing-roadmap-vaccination/100628650",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f07c39e7f0bb94ddeb74f5454fc4f544?impolicy=wcms_crop_resize&cropH=482&cropW=857&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2021-11-17T13:01:42Z",
+            "content": "Mask use will be scaled down in Victoria, and venues will be able to operate at greater capacity as part of a further easing of restrictions that could be in place for the weekend.\r\nKey points:\r\n<ul>… [+4713 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Richard Willingham",
+            "title": "Restrictions may lift earlier as Victoria kicks vaccination goals, but health workers urge more protection",
+            "description": "Mask use will be scaled down in Victoria, and venues will be able to operate at greater capacity as part of a further easing of restrictions that could be in place for the weekend.",
+            "url": "https://www.abc.net.au/news/2021-11-18/victoria-covid-restrictions-easing-roadmap-vaccination/100628650",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f07c39e7f0bb94ddeb74f5454fc4f544?impolicy=wcms_crop_resize&cropH=482&cropW=857&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2021-11-17T13:01:42+00:00",
+            "content": "Mask use will be scaled down in Victoria, and venues will be able to operate at greater capacity as part of a further easing of restrictions that could be in place for the weekend.\r\nKey points:\r\n<ul>… [+4713 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "HHS memo shows department moving to undo Trump-era action aimed at better protecting religious liberty",
+            "description": "FIRST ON FOX: The Health and Human Services Department (HHS) is considering revoking authority the former Trump administration delegated for the Office of Civil Rights (OCR) to prevent violations of religious liberty – prompting concerns about conscience prot…",
+            "url": "https://www.foxnews.com/politics/hhs-ocr-memo-rfra-trump-religious-liberty",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21182690570920.jpg",
+            "publishedAt": "2021-11-17T12:37:20.0850421Z",
+            "content": "FIRST ON FOX: The Health and Human Services Department (HHS) is considering revoking authority the former Trump administration delegated for the Office of Civil Rights (OCR) to prevent violations of … [+6850 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Andrew Jeong, Annabelle Timsit, Katie Shepherd",
+            "title": "Covid-19 live updates: Covid could be endemic illness by next year with more vaccine uptake, Fauci says",
+            "description": "The top U.S. infectious-disease expert said he hopes public health agencies will make all adults eligible for booster doses soon.",
+            "url": "https://www.washingtonpost.com/nation/2021/11/17/covid-delta-variant-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6LDDECHPUI6ZPWKHTDRAO6YCQ.jpg&w=1440",
+            "publishedAt": "2021-11-17T11:26:15+00:00",
+            "content": "Even as vaccines have become available to the vast majority of Americans, cases have surged in a slew of states raising questions about whether vaccines alone are sufficient to curb the coronaviruss … [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Marina Trajkovich",
+            "title": "Australians warned of hidden health hazard in homes ahead of summer",
+            "description": "<p>Experts are warning of possible health impacts from unchecked mould ahead of what will be a damp summer.</p>",
+            "url": "https://www.9news.com.au/national/aussies-warned-of-hidden-dangers-in-their-homes-this-summer/acc909fc-0be5-4f07-8cde-bfc248d1f9e8",
+            "urlToImage": "https://imageresizer.static9.net.au/-EVxLWutXfwtzFbJz63eeFQ5JY0=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F1104d26a-dc33-4e5f-a4c7-aaee0d686d6c",
+            "publishedAt": "2021-11-17T10:12:30+00:00",
+            "content": "<p>Experts are warning of possible health impacts from unchecked mould ahead of what will be a damp summer.</p>"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Zoe Rohrich, Jacob Ward, Emily Pandise",
+            "title": "Albuquerque has new response to 911 calls involving mentally ill people",
+            "description": "In addition to police and paramedics, residents in Albuquerque, New Mexico, have access to a third branch of public safety: behavioral health responders.",
+            "url": "https://www.nbcnews.com/news/us-news/albuquerque-new-response-911-calls-involving-mentally-ill-people-rcna5623",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211115-ABQ-alternative-policing-2-ew-517p-ae4dee.jpg",
+            "publishedAt": "2021-11-17T10:00:06Z",
+            "content": "ALBUQUERQUE, N.M. Elisha Lucero, who had mental health issues for years after a brain tumor diagnosis, was killed by Bernalillo County sheriffs deputies after they shot her more than 20 times.\r\nLucer… [+4559 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": null,
+            "title": "Precinct locked down after shooting at Coast health centre - Courier Mail",
+            "description": "Subscribe to The Courier-Mail to get unrestricted digital access, home paper delivery, Apps for iPad and Android, member only +Rewards and much more...",
+            "url": "https://dsf.newscorpaustralia.com/couriermail/subscription/",
+            "urlToImage": null,
+            "publishedAt": "2021-11-17T05:26:15+00:00",
+            "content": "Subscribe to The Courier-Mail to get unrestricted digital access, home paper delivery, Apps for iPad and Android, member only +Rewards and much more..."
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Sudbury.com Staff",
+            "title": "Public Health Sudbury reporting 20 new COVID-19 cases, one new death for Nov. 16",
+            "description": "Health unit says it is now monitoring 243 active COVID-19 cases across the Sudbury District",
+            "url": "https://www.sudbury.com/local-news/public-health-sudbury-reporting-20-new-covid-19-cases-one-new-death-for-nov-16-4764392",
+            "urlToImage": "https://www.vmcdn.ca/f/files/baytoday/images/health/20200909-covid-assessment-centre-sign-turl.jpg;w=1200;h=800;mode=crop",
+            "publishedAt": "2021-11-16T21:26:00+00:00",
+            "content": "Public Health Sudbury and Districts (PHSD) has reported 20 new cases of COVID-19 in the local jurisdiction for Nov. 16. There is also one new death being reported. No information was provided on the … [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "How immersive VR could help you ditch your sex therapist",
+            "description": "A boom in new technologies is revolutionizing the field of mental health in terms of understanding and treating mental disorders like phobias, eating disorders, or psychosis. Among ...",
+            "url": "http://thenextweb.com/news/immersive-help-ditch-your-sex-therapist-syndication",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FVR-sexual-aversion-hed.jpg&signature=4ec88a1f3d82c8cc8112c898140aa811",
+            "publishedAt": "2021-11-16T15:08:53Z",
+            "content": "A boom in new technologies is revolutionizing the field of mental health in terms of understanding and treating mental disorders like phobias, eating disorders, or psychosis. Among these innovations,… [+5860 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Hannah Flynn, MS",
+            "title": "COVID-19 vaccines for children: What are the side effects?",
+            "description": "In this Special Feature, we outline what we know about the side effects of COVID-19 vaccines that some health authorities have approved for use in children.",
+            "url": "http://www.medicalnewstoday.com/articles/covid-19-vaccines-for-children-what-are-the-side-effects",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/COVID-19-vaccines-children-thumb.jpg",
+            "publishedAt": "2021-11-11T13:20:00Z",
+            "content": "Vaccines undergo particularly rigorous safety tests before receiving approval for use in the general population. However, no drug is guaranteed to be free from side effects, so what are the side effe… [+10264 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "FP Economy",
+            "description": "Latest news on the economic system, inflation, gross domestic product (GDP), national debts and financial news, as well as coverage for health care, the sector plus more.",
+            "url": "http://business.financialpost.com/category/news/economy/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:50.0348896Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Helena Burke",
+            "title": "Horror death rate if Aus reopens too soon",
+            "description": "<p>Frightening research has revealed the dire situation Australia would face if it rushed through its reopening process, ditching public health measures after the nation reached vaccination levels of 80 per cent.</p>",
+            "url": "https://www.news.com.au/national/prime-ministers-plan-to-reopen-australia-will-cause-substantial-mortality-experts-say/news-story/2812e931fef9fec34c685a42a73b8419",
+            "urlToImage": "https://content.api.news/v3/images/bin/91bb20769e1ebd433de909f080f0f936",
+            "publishedAt": "2021-08-23T14:01:00Z",
+            "content": "Frightening research has revealed the dire situation Australia would face if it rushed through its reopening process.Frightening research has revealed the dire situation Australia would face if it ru… [+5635 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "Will Goodbody",
+            "title": "Efforts continue to assess extent of ransomware issue",
+            "description": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services here.",
+            "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221735-hse-cyber-atack/",
+            "urlToImage": "https://img.rasset.ie/0016bdc3-1600.jpg",
+            "publishedAt": "2021-05-15T06:18:56Z",
+            "content": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services.\r\nThe HSE has said it will take a number of days before i… [+1264 chars]"
+        }
+    ]
+}
